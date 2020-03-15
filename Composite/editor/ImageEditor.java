@@ -1,7 +1,7 @@
-package Composite.Composite.editor;
+package Task.Composite.editor;
 
-import Composite.Composite.shapes.CompoundShape;
-import Composite.Composite.shapes.Shape;
+import Task.Composite.shapes.CompoundShape;
+import Task.Composite.shapes.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

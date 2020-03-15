@@ -1,4 +1,4 @@
-package Composite.Composite.shapes;
+package Task.Composite.shapes;
 
 
 import java.awt.*;

@@ -1,10 +1,10 @@
-package Composite.Composite;
+package Task.Composite.demo;
 
-import Composite.Composite.editor.ImageEditor;
-import Composite.Composite.shapes.Circle;
-import Composite.Composite.shapes.CompoundShape;
-import Composite.Composite.shapes.Dot;
-import Composite.Composite.shapes.Rectangle;
+import Task.Composite.editor.ImageEditor;
+import Task.Composite.shapes.Circle;
+import Task.Composite.shapes.CompoundShape;
+import Task.Composite.shapes.Dot;
+import Task.Composite.shapes.Rectangle;
 
 import java.awt.*;
 
